@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+my_first_ml_model.egg-info/PKG-INFO
+my_first_ml_model.egg-info/SOURCES.txt
+my_first_ml_model.egg-info/dependency_links.txt
+my_first_ml_model.egg-info/not-zip-safe
+my_first_ml_model.egg-info/requires.txt
+my_first_ml_model.egg-info/top_level.txt
+trainer/__init__.py
+trainer/_version.py
+trainer/model.py
+trainer/sample_functions.py
+trainer/task.py

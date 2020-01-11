@@ -1,0 +1,6 @@
+tensorflow
+versioneer
+Pillow
+pytest
+pytest-cov
+mock
